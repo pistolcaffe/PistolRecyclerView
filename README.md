@@ -1,3 +1,4 @@
+# PistolRecyclerView
 ### Basic Usage
 ```
 repositories {
